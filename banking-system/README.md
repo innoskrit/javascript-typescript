@@ -7,6 +7,7 @@ Run `cd banking-system`, run below commands on terminal. Make sure you are insid
 `npm init -y`
 
 `npm install typescript @types/node --save-dev`
+
 `npm i uuid`
 
 `npx tsc --init` -> this will create a `tsconfig.json` file
