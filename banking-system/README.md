@@ -1,4 +1,4 @@
-If you want to build on your own then follow these below steps. If you want to use this project only see below.
+If you want to build on your own then follow these below steps. If you want to use this project then scroll down to last to "Run directly this project."
 
 Create a empty directory `banking-system`.
 
